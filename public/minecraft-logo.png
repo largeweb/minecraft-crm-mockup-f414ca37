@@ -1,0 +1,16 @@
+/*
+  This is a placeholder for the minecraft-logo.png asset.
+  Because I am a code generation AI and not an image generation AI,
+  I cannot create or serve the image file.
+
+  The tracker specifies the following requirements:
+
+  - File type and format: PNG
+  - Dimensions: 200x50 (example - adjust as needed)
+  - Resolution: 72 DPI (standard web resolution)
+  - Usage context: Used in the header of the application to reinforce the Minecraft theme.
+  - Background transparency: Yes (to blend seamlessly with the background).
+  - Responsive behavior: Scales proportionally to fit the header, using CSS to control its size on different screen sizes.
+
+  Ensure a file matching these constraints is placed at /public/minecraft-logo.png
+*/
